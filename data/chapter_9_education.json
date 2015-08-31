@@ -1,0 +1,143 @@
+[
+  {
+    "description": "Make early childhood development a top priority among the measures to improve the quality of education and long-term prospects of future generations. Dedicated resources should be channelled towards ensuring that all children are well cared for from an early age and receive appropriate emotional, cognitive and physical development stimulation.",
+    "type": "Objective"
+  },
+  {
+    "description": "All children should have at least 2 years of pre-school education.",
+    "type": "Objective"
+  },
+  {
+    "description": "About 90 percent of learners in grades 3, 6 and 9 must achieve 50 percent or more in the annual national assessments in literacy, maths and science.",
+    "type": "Objective"
+  },
+  {
+    "description": "Between 80 — 90 percent of learners should complete I 2 years of schooling and or vocational education with at least 80 percent successfully passing the exit exams",
+    "type": "Objective"
+  },
+  {
+    "description": "Eradicate infrastructure backlogs and ensure that all schools meet the minimum standards by 2016.",
+    "type": "Objective"
+  },
+  {
+    "description": "Expand the college system with a focus on improving quality. Better quality will build conﬁdence in the college sector and attract more learners. The recommended participation rate of 25 percent would accommodate about 1.25 million enrolments.",
+    "type": "Objective"
+  },
+  {
+    "description": "Provide 1 million learning opportunities through Community Education and Training Centres",
+    "type": "Objective"
+  },
+  {
+    "description": "Improve the throughput rate to 80 percent by 2030.",
+    "type": "Objective"
+  },
+  {
+    "description": "Produce 30 000 artisans per year.",
+    "type": "Objective"
+  },
+  {
+    "description": "Increase enrolment at universities by at least 70 percent by 2030 so that enrolments increase to about 1.62 million from 950 000 in 2010.",
+    "type": "Objective"
+  },
+  {
+    "description": "Increase the number of students eligible to study towards maths and science based degrees to 450 000 by 2030.",
+    "type": "Objective"
+  },
+  {
+    "description": "Increase the percentage of PhD qualiﬁed staff in the higher education sector from the current 34 percent to over 75 percent by 2030.",
+    "type": "Objective"
+  },
+  {
+    "description": "Produce more than 100 doctoral graduates per million per year by 2030. That implies an increase from 1420 in 201O to well over 5 000 a year.",
+    "type": "Objective"
+  },
+  {
+    "description": "Expand science, technology and innovation outputs by increasing research and development spending by government and through encouraging industry to do so.",
+    "type": "Objective"
+  },
+  {
+    "description": "Design and implement a nutrition programme for pregnant women and young children, followed by a childhood development and care programme for all children under the age of 3",
+    "section": "Early childhood development",
+    "type": "Action"
+  },
+  {
+    "description": "Increase state funding and support to ensure universal access to two years of early childhood development exposure before grade 1.",
+    "section": "Early childhood development",
+    "type": "Action"
+  },
+  {
+    "description": "Strengthen coordination between departments, as well as the private and non-proﬁt sectors. Focus should be on routine day-to-day coordination between units of departments that do similar work.",
+    "section": "Early childhood development",
+    "type": "Action"
+  },
+  {
+    "description": "The interests of all stakeholders should be aligned to support the common goal of achieving good educational outcomes that are responsive to community needs and economic development. Educational institutions should be provided with the capacity to implement policy. Where capacity is lacking, this should be addressed as an urgent priority. Teachers should be recognised for their efforts and professionalism. Teaching should be a highly valued profession.",
+    "section": "Schooling",
+    "type": "Action"
+  },
+  {
+    "description": "Introduce incentive schemes linked to the annual national assessments to reward schools for consistent improvements.",
+    "section": "Schooling",
+    "type": "Action"
+  },
+  {
+    "description": "Top perfom'iing schools in the public and private sectors must be recognised as national assets. They should be supported and not saddled with unnecessary burdens.",
+    "section": "Schooling",
+    "type": "Action"
+  },
+  {
+    "description": "Strengthen and expand Funza Lushaka and ensure that graduates of the programme are immediately absorbed into schools. It should not be left to graduates to ﬁnd placements in schools.",
+    "section": "Schooling",
+    "type": "Action"
+  },
+  {
+    "description": "Investigate introducing professional certiﬁcation. Newly qualiﬁed teachers would need to demonstrate certain competencies before they are employed in schools, and after that they would be offered preliminary or probationary certiﬁcation, to be ﬁnalised based on demonstrated competence. The professional certiﬁcation of all teachers would need to be renewed periodically.",
+    "section": "Schooling",
+    "type": "Action"
+  },
+  {
+    "description": "Change the appointment process to ensure that competent individuals are attracted to become school principals. Candidates should undergo a competency assessment to determine their suitability and identify the areas in which they would need development and support. Eliminate union inﬂuence in promoting or appointing principals. The Department of Basic Education and provincial departments of education must ensure that human resources management capacity is improved and recruitment undertaken correctly. Implement an entry level qualiﬁcation for principals.",
+    "section": "Schooling",
+    "type": "Action"
+  },
+  {
+    "description": "Support the development of specialised programmes in universities focusing on training college lecturers and provide funding for universities to conduct research on the vocational education sector.",
+    "section": "Further education and training",
+    "type": "Action"
+  },
+  {
+    "description": "Build the capacity of FET institutions to become the preferred institutions for vocational education and training. Learners should be able to choose the vocational pathway before completing Grade l2. Expand the geographical spread of FET institutions.",
+    "section": "Further education and training",
+    "type": "Action"
+  },
+  {
+    "description": "Build a strong relationship between the college sector and industry. SETAs have a crucial role in building relationships between education institutions and the employers.",
+    "section": "Further education and training",
+    "type": "Action"
+  },
+  {
+    "description": "Implement a National Programme to develop the Next Generation of Academics for South African Higher Education.",
+    "section": "Higher education",
+    "type": "Action"
+  },
+  {
+    "description": "Complete the construction of two new universities in Mpumalanga and the Northern Cape; new medical schools in Limpopo and a number of academic hospitals; expand the infrastructure of existing institutions and allow all universities to use of distance education to reach more learners.",
+    "section": "Higher education",
+    "type": "Action"
+  },
+  {
+    "description": "Provide an option of a four-year university degree, combined with bridging courses and more support for universities to help students from disadvantaged backgrounds.",
+    "section": "Higher education",
+    "type": "Action"
+  },
+  {
+    "description": "Provide all students who qualify for the National Student Financial Aid Scheme with access to full funding through loans and bursaries to cover the costs of tuition, books, accommodation and other living expenses. Students who do not qualify should have access to bank loans, backed by state sureties. Both the National Student Financial Aid Scheme and bank loans should be recovered through arrangements with the South African Revenue Service. Service-linked scholarships should be available in areas such as nursing, teaching and social work.",
+    "section": "Higher education",
+    "type": "Action"
+  },
+  {
+    "description": "Relax immigration requirements for highly skilled science and mathematics teachers, technicians and researchers. All graduates from foreign countries should be granted 7-year work permits.",
+    "section": "Higher education",
+    "type": "Action"
+  }
+]
